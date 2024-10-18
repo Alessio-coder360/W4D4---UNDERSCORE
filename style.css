@@ -1,0 +1,86 @@
+
+
+
+body{
+background-color: rgb(64, 15, 15);
+}
+
+#contenitore{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(188, 171, 171, 0.796) ;
+    border-radius: 20px;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    padding: 30px;
+    gap: 40px;
+    width: 400px;
+    margin-top: 40px;
+}
+
+.testata{
+margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+
+.Titolo h1{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.img img{
+    width: 170px;
+    border-radius: 20px;
+   
+    
+    
+}
+
+ 
+#lavoro{
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+#località{
+    width: 200px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+#contenitore label{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#Bottone{
+    font-size: 25px;
+    border: solid 1px black ;
+    background-color: yellow;
+    border-radius: 20px
+    
+}
+
+
+#tabella{
+    text-decoration: none;
+}
+    
+
+
+
+
+
+
+
+/* 
+#Vuoto{
+    min-height: 200px;
+    background-color: rgb(240, 106, 106);
+}  */
